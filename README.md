@@ -1,4 +1,4 @@
-## Hello, I am Kleber! Programer of computers.
+## Hello, I am Kleber! Computer programmer.
 
 <div align="center">
   <a href="https://github.com/kleber4601">
