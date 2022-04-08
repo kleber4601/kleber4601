@@ -1,4 +1,4 @@
-## Ola! Eu sou Kleber Santos
+## Hello, I am Kleber! Programer of computers.
 
 <div align="center">
   <a href="https://github.com/kleber4601">
