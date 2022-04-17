@@ -1,4 +1,4 @@
-## Welcome! Take a look at my codes.
+## Welcome, Take a look at my codes.
 
 <div align="center">
   <a href="https://github.com/kleber4601">
